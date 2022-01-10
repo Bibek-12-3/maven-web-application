@@ -107,7 +107,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>facebook</name>
-	      <url>http://3.111.33.211:8847/bibekd/repository/facebook-snapshot/</url>
+	      <url>http://3.108.250.1:8847/bibekd/repository/facebook-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
